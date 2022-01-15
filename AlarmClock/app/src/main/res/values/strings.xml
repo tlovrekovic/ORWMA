@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vrijeme">vrijeme</string>
+    <string name="alarmiraj_se">alarmiraj se</string>
+    <string name="ponavljaj">ponavljaj</string>
+    <string name="pon">PON</string>
+    <string name="sri">SRI</string>
+    <string name="pet">PET</string>
+    <string name="sub">SUB</string>
+    <string name="et">ČET</string>
+    <string name="naziv_alarma">Naziv alarma</string>
+    <string name="spremi">Spremi</string>
+    <string name="ned">NED</string>
+    <string name="uto">UTO</string>
+</resources>
